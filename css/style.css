@@ -144,9 +144,9 @@ footer {
 	color: yellow;
 }
 
-img {
-	width: 400px;
-	height: 250px;
+.textbox img {
+	height: 100px;
+	width: 200px;
 }
 
 @media (max-width: 900px) {
